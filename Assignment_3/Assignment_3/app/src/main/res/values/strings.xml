@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment_3</string>
+
+    <string name="HEALTH">Health %1$d</string>
+    <string name="SCORE">Score %1$d</string>
+    <string name="LEVEL">Level %1$d</string>
+    <string name="FPS">FPS %1$d</string>
+    <string name="GAME_OVER">Game over!</string>
+    <string name="VICTORY">Victory!</string>
+</resources>

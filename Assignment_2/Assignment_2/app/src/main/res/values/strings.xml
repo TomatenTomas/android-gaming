@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment_2</string>
+    <string name="HEALTH">Health: %1$d</string>
+    <string name="COINS_FOUND">Coins: %1$d &#47; %2$d</string>
+    <string name="GAME_DONE">Game completed!</string>
+
+    <string name="TAG_GAME">Game</string>
+    <string name="RESUME">onResume</string>
+    <string name="PAUSE">onPause</string>
+    <string name="DESTROY">onDestroy</string>
+    <string name="SURF_CREATED">Surface Created</string>
+    <string name="SURF_CHANGED">Surface Changed</string>
+    <string name="SURF_DESTROYED">Surface Destroyed</string>
+    <string name="GTHREAD_START">Gamethread started!</string>
+</resources>

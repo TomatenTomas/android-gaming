@@ -1,0 +1,12 @@
+space_ships.zip: https://opengameart.org/content/space-ships-side-scroller
+starfield: https://www.freepik.com/premium-photo/high-definition-star-field-colorful-night-sky-space-nebula-galaxies-space-astronomy-concept-background_9779295.htm
+getting hit sounds: https://www.bfxr.net/
+
+game over: https://www.bfxr.net/
+
+game start: 
+http://www.taur.net/~ottercomics/ottertunes/oishow/sfx/gateopens.wav
+https://www.findsounds.com/ISAPI/search.dll?start=31&keywords=start&seed=42
+
+boost:
+https://freesound.org/people/qubodup/sounds/146770/
